@@ -5,9 +5,5 @@
 *.py        text
 *.gitignore text
 *.gitattributes text
-*.png       text
-*.jpg       text
-*.jpge      text
-*.gif       text
 Dockerfile  text
 LICENSE     text
