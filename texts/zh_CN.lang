@@ -1,0 +1,130 @@
+map.position=§eX : §7%s §eY : §7%s §eZ : §7%s
+item.spawn_egg.entity.msd:blueflag.name=生成蓝色旗帜
+entity.msd:blueflag.name=蓝色旗帜
+item.spawn_egg.entity.msd:redflag.name=生成红色旗帜
+entity.msd:redflag.name=红色旗帜
+entity.msd:fnfal_npc.name=FNFAL
+entity.msd:sniper.name=[CSSR] 狙击手
+item.spawn_egg.entity.msd:sniper.name=生成 CSSR 狙击手
+entity.msd:sharpshooter.name=[CSSR] Sharpshooter
+item.spawn_egg.entity.msd:sharpshooter.name=生成 CSSR Sharpshooter
+entity.msd:rifleman.name=[CSSR] 步枪手
+item.spawn_egg.entity.msd:rifleman.name=生成 CSSR 步枪手
+entity.msd:machinegunner.name=[CSSR] 机枪手
+item.spawn_egg.entity.msd:machinegunner.name=生成 CSSR 机枪手
+entity.msd:rpg7_npc.name=[CSSR] 反坦克
+entity.msd:antitank.name=[CSSR] 反坦克
+item.spawn_egg.entity.msd:antitank.name=生成 CSSR 反坦克
+entity.msd:conscriptmachinegunner.name=[CSSR] 应征机枪手
+item.spawn_egg.entity.msd:conscriptmachinegunner.name=生成 CSSR 应征机枪手
+entity.msd:conscriptrifleman.name=[CSSR] 应征步枪兵
+item.spawn_egg.entity.msd:conscriptrifleman.name=生成 CSSR 应征步枪兵
+entity.msd:conscriptmarksman.name=[CSSR] Conscript Marksman
+item.spawn_egg.entity.msd:conscriptmarksman.name=生成 CSSR Conscript Marksman
+entity.msd:conscriptraider.name=[CSSR] 应征袭击者
+item.spawn_egg.entity.msd:conscriptraider.name=生成 CSSR 应征袭击者
+entity.msd:col_jay.name=[CSSR] 杰伊上校
+item.spawn_egg.entity.msd:col_jay.name=生成杰伊上校
+entity.msd:mortarspecialist.name=[CSSR] Mortar Specialist
+item.spawn_egg.entity.msd:mortarspecialist.name=生成 CSSR Mortar Specialist
+
+
+entity.msd:gaztigr1.name=Gaz Tigr
+item.spawn_egg.entity.msd:gaztigr1.name=生成 Gaz Tigr
+action.hint.exit.msd:gaztigr1=按潜行键离开
+
+entity.msd:gaztigr2.name=Gaz Tigr
+item.spawn_egg.entity.msd:gaztigr2.name=生成 Gaz Tigr
+action.hint.exit.msd:gaztigr2=按潜行键离开
+
+
+entity.msd:gaztigr3.name=Gaz Tigr
+item.spawn_egg.entity.msd:gaztigr3.name=Spawn Gaz Tigr
+action.hint.exit.msd:gaztigr3=按潜行键离开
+
+entity.msd:blackhawk.name=黑鹰直升机
+item.spawn_egg.entity.msd:blackhawk.name=生成黑鹰直升机
+action.hint.exit.msd:blackhawk=按潜行键离开
+
+entity.msd:hilux1.name=海拉克斯卡车
+item.spawn_egg.entity.msd:hilux1.name=生成海拉克斯卡车
+action.hint.exit.msd:hilux1=按潜行键离开
+entity.msd:hilux2.name=海拉克斯卡车 {Explosives}
+item.spawn_egg.entity.msd:hilux2.name=生成海拉克斯卡车 {Explosives}
+action.hint.exit.msd:hilux2=按潜行键离开
+entity.msd:hilux3:name=海拉克斯卡车 {Dshk}
+item.spawn_egg.entity.msd:hilux3.name=生成海拉克斯卡车 {Dshk}
+action.hint.exit.msd:hilux3=按潜行键离开
+entity.msd:hilux4:name=海拉克斯卡车 {B10}
+item.spawn_egg.entity.msd:hilux4.name=生成海拉克斯卡车 {B10}
+action.hint.exit.msd:hilux4=按潜行键离开
+
+
+entity.msd:humvee1.name=悍马 {Armored, 50. Cal}
+item.spawn_egg.entity.msd:humvee1.name=生成悍马 {Armored, 50. Cal}
+action.hint.exit.msd:humvee1=悍马 {Armored, 50. Cal}
+
+entity.msd:humvee2.name=悍马 {50. Cal}
+item.spawn_egg.entity.msd:humvee2.name=生成悍马 {50. Cal}
+action.hint.exit.msd:humvee2=悍马 {50. Cal}
+
+entity.msd:humvee3.name=悍马 {Armored}
+item.spawn_egg.entity.msd:humvee3.name=生成悍马 {Armored}
+action.hint.exit.msd:humvee3=悍马 {Armored}
+
+entity.msd:humvee4.name=悍马
+item.spawn_egg.entity.msd:humvee4.name=生成悍马
+action.hint.exit.msd:humvee4=悍马
+
+entity.msd:car.name=汽车
+item.spawn_egg.entity.msd:car.name=生成汽车
+action.hint.exit.msd:car=汽车
+
+entity.msd:motorcycle.name=摩托车
+item.spawn_egg.entity.msd:motorcycle.name=生成摩托车
+action.hint.exit.msd:motorcycle=摩托车
+
+entity.msd:ammocrate.name=弹药箱
+item.spawn_egg.entity.msd:ammocrate.name=生成弹药箱
+
+entity.msd:t90.name=T90
+item.spawn_egg.entity.msd:t90.name=生成 T90
+action.hint.exit.msd:t90=T90
+
+entity.msd:t72.name=T72
+item.spawn_egg.entity.msd:t72.name=生成 T72
+action.hint.exit.msd:t72=T72
+
+entity.msd:bmp3.name=BMP-3
+item.spawn_egg.entity.msd:bmp3.name=生成 BMP-3
+action.hint.exit.msd:bmp3=BMP-3
+
+entity.msd:abrams.name=艾布拉姆斯
+item.spawn_egg.entity.msd:abrams.name=生成艾布拉姆斯
+action.hint.exit.msd:abrams=艾布拉姆斯
+
+entity.msd:t90_msd.name=T90 AP 弹壳
+entity.msd:rpg7_msd.name=RPG7 高爆火箭
+entity.msd:smaw_msd.name=SMAW 高爆火箭
+entity.msd:m3_msd.name=M3 爆炸弹药
+entity.msd:gsh23_msd.name=23mm 蛋壳
+entity.msd:s5_msd_l1.name=S5 非制导火箭
+entity.msd:s5_msd_l2.name=S5 非制导火箭
+entity.msd:s5_msd_r1.name=S5 非制导火箭
+entity.msd:s5_msd_r2.name=S5 非制导火箭
+
+entity.msd:mi24.name=Mi24
+item.spawn_egg.entity.msd:mi24.name=生成 Mi24
+action.hint.exit.msd:mi24=Mi24
+
+entity.msd:a45mortar.name=迫击炮
+entity.msd:a50mortar.name=迫击炮
+entity.msd:a55mortar.name=迫击炮
+entity.msd:a60mortar.name=迫击炮
+entity.msd:a65mortar.name=迫击炮
+entity.msd:a70mortar.name=迫击炮
+entity.msd:mortar.name=迫击炮
+item.spawn_egg.entity.msd:mortar.name=生成迫击炮
+
+item.spawn_egg.entity.msd:mojave_rocket.name=生成核弹
+item.spawn_egg.entity.msd:nukedesk.name=生成核弹控制台

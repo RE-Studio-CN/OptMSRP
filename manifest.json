@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§r§lMSAP RP §r补丁包",
+    "description": "§r§lMSAP 资源包修改，需要搭配原始资源包§r\n§r§eBy Puce",
+    "uuid": "4f5d5555-bfaa-4778-9f37-2ca266b123c0",
+    "version": [
+      2,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "601166aa-4441-4918-ac87-f3700af80d3b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
