@@ -27,5 +27,8 @@
     "textures/ui/vignette",
     "textures/newskin",
     "textures/spinning_module",
-    "textures/spinning_module_mi24"
+    "textures/spinning_module_mi24",
+	"textures/models/uis/bino_ui",
+	"textures/models/uis/mono_ui",
+	"textures/models/uis/pano_ui"
 ]
